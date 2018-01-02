@@ -1,6 +1,6 @@
 # StrongHands Official Development Repository
 
-# Repo Info
+## Repo Info
 Changes for QT5 taken from https://github.com/gjhiggins/sprouts
 
 ## What is StrongHands?
