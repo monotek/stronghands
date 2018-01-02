@@ -23,7 +23,7 @@ static unsigned int nMessageStartTestSwitchTime = 1346200000;
 
 // StrongHands message start (switch from Bitcoin's in v0.2)
 static unsigned char pchMessageStartBitcoin[4] = { 0xcf, 0xbe, 0xb4, 0xfc };
-static unsigned char pchMessageStartStrongHands[4] = { 0xcf, 0xe8, 0xe9, 0xfc };
+static unsigned char pchMessageStartStrongHands[4] = { 0x46, 0x55, 0x43, 0x4b };
 static unsigned int nMessageStartSwitchTime = 1347300000;
 
 void GetMessageStart(unsigned char pchMessageStart[], bool fPersistent)
