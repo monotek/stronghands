@@ -2666,8 +2666,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 9903)</source>
-        <translation>&lt;port&gt; nach Verbindungen abhören (Standard: 6901 oder Testnetz: 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 6903)</source>
+        <translation>&lt;port&gt; nach Verbindungen abhören (Standard: 6901 oder Testnetz: 6903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>

@@ -2673,8 +2673,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 9903)</source>
-        <translation>监听端口连接 &lt;port&gt; (缺省: 6901 或测试网络: 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 6903)</source>
+        <translation>监听端口连接 &lt;port&gt; (缺省: 6901 或测试网络: 6903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
