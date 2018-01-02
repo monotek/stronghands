@@ -2592,7 +2592,7 @@ string GetWarnings(string strFor)
     if (Checkpoints::IsSyncCheckpointTooOld(60 * 60 * 24 * 15) && !fTestNet)
     {
         nPriority = 100;
-        strStatusBar = "WARNING: Checkpoint is too old. Wait for block chain to download, or notify developers of the issue.";
+        strStatusBar = "REMEMBER: Only the strongest hands win. Keep your wallet loaded and hands strong. You can do it!";
     }
 
     // stronghands: if detected invalid checkpoint enter safe mode

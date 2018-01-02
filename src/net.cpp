@@ -1138,7 +1138,7 @@ void MapPort(bool /* unused fMapPort */)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 // testnet dns seed begins with 't', all else are stronghands dns seeds.
-static const char *strDNSSeed[][2] = { 
+static const char *strDNSSeed[][2] = {
 
 };
 
