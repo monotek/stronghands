@@ -7,7 +7,7 @@ Changes for QT5 taken from https://github.com/gjhiggins/sprouts
 
 StrongHands is a StrongHands network-compatible, community-developed wallet client.
 
-The project has been designed to provide people with a stable, secure, and feature-rich alternative to the StrongHands reference wallet (http://github.com/ppcoin/ppcoin).
+The project has been designed to provide people with a stable, secure, and feature-rich alternative to the Peercoin reference wallet (http://github.com/ppcoin/ppcoin).
 
 To help faciliate broad community cooperation, a number of trusted StrongHands/Peershares community leaders have write permissions to the project's codebase, allowing for decentralization and continuity. Community members, old and new, are encouraged to find ways to contribute to the success of the project. If you have experience with programming, product design, QA engineering, translation, or have a different set of skills that you want to bring to the project, your involvement is appreciated!
 
